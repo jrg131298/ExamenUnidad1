@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\Examen1\OrdenamientoDeNumerosRandom\OrdenamientoDeNumerosRandom\bin\Debug\netstandard2.0\OrdenamientoDeNumerosRandom.deps.json
+C:\Users\DELL\Desktop\Examen1\OrdenamientoDeNumerosRandom\OrdenamientoDeNumerosRandom\bin\Debug\netstandard2.0\OrdenamientoDeNumerosRandom.dll
+C:\Users\DELL\Desktop\Examen1\OrdenamientoDeNumerosRandom\OrdenamientoDeNumerosRandom\bin\Debug\netstandard2.0\OrdenamientoDeNumerosRandom.pdb
+C:\Users\DELL\Desktop\Examen1\OrdenamientoDeNumerosRandom\OrdenamientoDeNumerosRandom\obj\Debug\netstandard2.0\OrdenamientoDeNumerosRandom.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Examen1\OrdenamientoDeNumerosRandom\OrdenamientoDeNumerosRandom\obj\Debug\netstandard2.0\OrdenamientoDeNumerosRandom.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Examen1\OrdenamientoDeNumerosRandom\OrdenamientoDeNumerosRandom\obj\Debug\netstandard2.0\OrdenamientoDeNumerosRandom.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Examen1\OrdenamientoDeNumerosRandom\OrdenamientoDeNumerosRandom\obj\Debug\netstandard2.0\OrdenamientoDeNumerosRandom.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Examen1\OrdenamientoDeNumerosRandom\OrdenamientoDeNumerosRandom\obj\Debug\netstandard2.0\OrdenamientoDeNumerosRandom.dll
+C:\Users\DELL\Desktop\Examen1\OrdenamientoDeNumerosRandom\OrdenamientoDeNumerosRandom\obj\Debug\netstandard2.0\OrdenamientoDeNumerosRandom.pdb

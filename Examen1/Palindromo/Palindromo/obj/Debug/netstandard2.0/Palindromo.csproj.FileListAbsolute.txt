@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\Examen1\Palindromo\Palindromo\bin\Debug\netstandard2.0\Palindromo.deps.json
+C:\Users\DELL\Desktop\Examen1\Palindromo\Palindromo\bin\Debug\netstandard2.0\Palindromo.dll
+C:\Users\DELL\Desktop\Examen1\Palindromo\Palindromo\bin\Debug\netstandard2.0\Palindromo.pdb
+C:\Users\DELL\Desktop\Examen1\Palindromo\Palindromo\obj\Debug\netstandard2.0\Palindromo.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Examen1\Palindromo\Palindromo\obj\Debug\netstandard2.0\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Examen1\Palindromo\Palindromo\obj\Debug\netstandard2.0\Palindromo.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Examen1\Palindromo\Palindromo\obj\Debug\netstandard2.0\Palindromo.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Examen1\Palindromo\Palindromo\obj\Debug\netstandard2.0\Palindromo.dll
+C:\Users\DELL\Desktop\Examen1\Palindromo\Palindromo\obj\Debug\netstandard2.0\Palindromo.pdb

@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\Examen1\PrimeraOcurrenciaDelMayor\PrimeraOcurrenciaDelMayor\bin\Debug\netstandard2.0\PrimeraOcurrenciaDelMayor.deps.json
+C:\Users\DELL\Desktop\Examen1\PrimeraOcurrenciaDelMayor\PrimeraOcurrenciaDelMayor\bin\Debug\netstandard2.0\PrimeraOcurrenciaDelMayor.dll
+C:\Users\DELL\Desktop\Examen1\PrimeraOcurrenciaDelMayor\PrimeraOcurrenciaDelMayor\bin\Debug\netstandard2.0\PrimeraOcurrenciaDelMayor.pdb
+C:\Users\DELL\Desktop\Examen1\PrimeraOcurrenciaDelMayor\PrimeraOcurrenciaDelMayor\obj\Debug\netstandard2.0\PrimeraOcurrenciaDelMayor.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Examen1\PrimeraOcurrenciaDelMayor\PrimeraOcurrenciaDelMayor\obj\Debug\netstandard2.0\PrimeraOcurrenciaDelMayor.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Examen1\PrimeraOcurrenciaDelMayor\PrimeraOcurrenciaDelMayor\obj\Debug\netstandard2.0\PrimeraOcurrenciaDelMayor.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Examen1\PrimeraOcurrenciaDelMayor\PrimeraOcurrenciaDelMayor\obj\Debug\netstandard2.0\PrimeraOcurrenciaDelMayor.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Examen1\PrimeraOcurrenciaDelMayor\PrimeraOcurrenciaDelMayor\obj\Debug\netstandard2.0\PrimeraOcurrenciaDelMayor.dll
+C:\Users\DELL\Desktop\Examen1\PrimeraOcurrenciaDelMayor\PrimeraOcurrenciaDelMayor\obj\Debug\netstandard2.0\PrimeraOcurrenciaDelMayor.pdb

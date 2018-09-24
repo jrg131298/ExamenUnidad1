@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\Examen1\SucesionInvertida\SucesionInvertida\bin\Debug\netstandard2.0\SucesionInvertida.deps.json
+C:\Users\DELL\Desktop\Examen1\SucesionInvertida\SucesionInvertida\bin\Debug\netstandard2.0\SucesionInvertida.dll
+C:\Users\DELL\Desktop\Examen1\SucesionInvertida\SucesionInvertida\bin\Debug\netstandard2.0\SucesionInvertida.pdb
+C:\Users\DELL\Desktop\Examen1\SucesionInvertida\SucesionInvertida\obj\Debug\netstandard2.0\SucesionInvertida.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Examen1\SucesionInvertida\SucesionInvertida\obj\Debug\netstandard2.0\SucesionInvertida.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Examen1\SucesionInvertida\SucesionInvertida\obj\Debug\netstandard2.0\SucesionInvertida.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Examen1\SucesionInvertida\SucesionInvertida\obj\Debug\netstandard2.0\SucesionInvertida.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Examen1\SucesionInvertida\SucesionInvertida\obj\Debug\netstandard2.0\SucesionInvertida.dll
+C:\Users\DELL\Desktop\Examen1\SucesionInvertida\SucesionInvertida\obj\Debug\netstandard2.0\SucesionInvertida.pdb

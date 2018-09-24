@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\Examen1\MenorMayor\MenorMayor\bin\Debug\netstandard2.0\MenorMayor.deps.json
+C:\Users\DELL\Desktop\Examen1\MenorMayor\MenorMayor\bin\Debug\netstandard2.0\MenorMayor.dll
+C:\Users\DELL\Desktop\Examen1\MenorMayor\MenorMayor\bin\Debug\netstandard2.0\MenorMayor.pdb
+C:\Users\DELL\Desktop\Examen1\MenorMayor\MenorMayor\obj\Debug\netstandard2.0\MenorMayor.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Examen1\MenorMayor\MenorMayor\obj\Debug\netstandard2.0\MenorMayor.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Examen1\MenorMayor\MenorMayor\obj\Debug\netstandard2.0\MenorMayor.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Examen1\MenorMayor\MenorMayor\obj\Debug\netstandard2.0\MenorMayor.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Examen1\MenorMayor\MenorMayor\obj\Debug\netstandard2.0\MenorMayor.dll
+C:\Users\DELL\Desktop\Examen1\MenorMayor\MenorMayor\obj\Debug\netstandard2.0\MenorMayor.pdb

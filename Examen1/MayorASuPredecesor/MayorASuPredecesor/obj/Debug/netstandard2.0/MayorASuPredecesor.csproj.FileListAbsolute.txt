@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\Examen1\MayorASuPredecesor\MayorASuPredecesor\bin\Debug\netstandard2.0\MayorASuPredecesor.deps.json
+C:\Users\DELL\Desktop\Examen1\MayorASuPredecesor\MayorASuPredecesor\bin\Debug\netstandard2.0\MayorASuPredecesor.dll
+C:\Users\DELL\Desktop\Examen1\MayorASuPredecesor\MayorASuPredecesor\bin\Debug\netstandard2.0\MayorASuPredecesor.pdb
+C:\Users\DELL\Desktop\Examen1\MayorASuPredecesor\MayorASuPredecesor\obj\Debug\netstandard2.0\MayorASuPredecesor.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Examen1\MayorASuPredecesor\MayorASuPredecesor\obj\Debug\netstandard2.0\MayorASuPredecesor.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Examen1\MayorASuPredecesor\MayorASuPredecesor\obj\Debug\netstandard2.0\MayorASuPredecesor.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Examen1\MayorASuPredecesor\MayorASuPredecesor\obj\Debug\netstandard2.0\MayorASuPredecesor.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Examen1\MayorASuPredecesor\MayorASuPredecesor\obj\Debug\netstandard2.0\MayorASuPredecesor.dll
+C:\Users\DELL\Desktop\Examen1\MayorASuPredecesor\MayorASuPredecesor\obj\Debug\netstandard2.0\MayorASuPredecesor.pdb

@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\Examen1\NumeroMenor\NumeroMenor\bin\Debug\netstandard2.0\NumeroMenor.deps.json
+C:\Users\DELL\Desktop\Examen1\NumeroMenor\NumeroMenor\bin\Debug\netstandard2.0\NumeroMenor.dll
+C:\Users\DELL\Desktop\Examen1\NumeroMenor\NumeroMenor\bin\Debug\netstandard2.0\NumeroMenor.pdb
+C:\Users\DELL\Desktop\Examen1\NumeroMenor\NumeroMenor\obj\Debug\netstandard2.0\NumeroMenor.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Examen1\NumeroMenor\NumeroMenor\obj\Debug\netstandard2.0\NumeroMenor.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Examen1\NumeroMenor\NumeroMenor\obj\Debug\netstandard2.0\NumeroMenor.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Examen1\NumeroMenor\NumeroMenor\obj\Debug\netstandard2.0\NumeroMenor.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Examen1\NumeroMenor\NumeroMenor\obj\Debug\netstandard2.0\NumeroMenor.dll
+C:\Users\DELL\Desktop\Examen1\NumeroMenor\NumeroMenor\obj\Debug\netstandard2.0\NumeroMenor.pdb
